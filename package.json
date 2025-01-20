@@ -5,6 +5,8 @@
   "scripts": {
     "start": "node index.js"
   },
+  "author": "Subhadip-Hazra",
+  "license": "ISC",
   "dependencies": {
     "ws": "^8.0.0"
   }
